@@ -18,7 +18,7 @@ export default function Project() {
           </p>
           <div className="grid grid-cols-2 gap-4">
             <img
-              src="/p2.jpg"
+              src="p2.jpg"
               alt="startup template"
               width={500}
               height={500}
