@@ -51,7 +51,7 @@ export  default function Contact() {
           <textarea
             rows="4"
             placeholder="Enter your message here..."
-            className="w-full max-w-sm mt-4 rounded-lg border border-amber-200 bg-neutral-950 text-zinc-50 placeholder:text-neutral-700 focus:ring-2 focus:ring-teal-500 resize-none"
+            className="w-full max-w-sm items-center mt-4 rounded-lg border border-amber-200 bg-neutral-950 text-zinc-50 placeholder:text-neutral-700 focus:ring-2 focus:ring-teal-500 resize-none"
           />
 
           <button className="w-40  rounded-2xl h-10 bg-white text-black ml-50 mt-8 cursor-pointer shadow-md shadow-gray-200"> Submit</button>
