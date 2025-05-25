@@ -59,7 +59,7 @@ export const HeroParallax = ({
   );
 };
 
-const words = `I’m Dilshan Udaraka Ranathunga, a dedicated and curious learner passionate about technology and innovation. My portfolio showcases my journey through frontend development, IT systems, and creative problem-solving. I strive to blend technical skills with user-centered design to build impactful, efficient, and visually engaging digital experiences.`;
+const words = `I’m Dilshan Udaraka Ranathunga, a dedicated and curious learner passionate about technology and innovation. My portfolio showcases my journey through frontend development, IT systems, and creative problem-solving. I strive to blend technical skills with user-centered design to build impactful, efficient, and visually engaging digital experiences.`
 export const Header = () => {
   return (
     <div>
