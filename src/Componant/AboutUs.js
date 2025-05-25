@@ -11,7 +11,7 @@ export default function AboutUs() {
       
     <BackgroundBeamsWithCollision>
    
-     <div className=" ml-[5px] float-left  " > <img src="/104.png" alt="" className=" w-[350px] h-[525px] sm:w-[300px] sm:h-[400px] md:w-[470px] md:h-[525px]  "/> </div>   
+     <div className=" ml-[5px] float-left  " > <img src="p104.png" alt="" className=" w-[350px] h-[525px] sm:w-[300px] sm:h-[400px] md:w-[470px] md:h-[525px]  "/> </div>   
     <div className='text-center mt-5 float-left mr-5   '>
            <ContainerTextFlip className={"text-center "} words={["HI","Hello","Welcome"]} />
            </div>

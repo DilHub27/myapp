@@ -16,64 +16,64 @@ export const products = [
   {
    
     thumbnail:
-      "/555.jpg",
+      "555.jpg",
   },
   {
     
     thumbnail:
-    "/P22.png",
+    "P22.png",
   },
   {
   
     thumbnail:
-      "/P23.png",
+      "P23.png",
   },
 
   {
      thumbnail:
-      "/P24.png",
+      "P24.png",
   },
   {
     thumbnail:
-      "/P31.png",
+      "P31.png",
   },
   {
      thumbnail:
-      "/P32.png",
+      "P32.png",
   },
 
   {
      thumbnail:
-      "/P33.png",
+      "P33.png",
   },
   {
      thumbnail:
-      "/P34.png",
+      "P34.png",
   },
   {
  thumbnail:
-      "/p1.jpg",
+      "p1.jpg",
   },
   {
  thumbnail:
-      "/p2.jpg",
+      "p2.jpg",
   },
   {
    thumbnail:
-      "/p3.jpg",
+      "p3.jpg",
   },
 
   {
  thumbnail:
-      "/p4.jpg",
+      "p4.jpg",
   },
   {
    thumbnail:
-      "/3.jpg",
+      "3.jpg",
   },
   {
    thumbnail:
-      "/5.jpg",
+      "5.jpg",
   },
   
    
