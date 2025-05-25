@@ -177,7 +177,7 @@ export const Keypad = () => {
   return (
     <div
       className="mx-1 h-full [transform:translateZ(0)] rounded-md bg-[#050505] p-1 [will-change:transform] w-ful">
-        <img src="/ke.png" alt=""/>
+        <img src="ke.png" alt=""/>
      
     </div>
   );
