@@ -7,7 +7,7 @@ export default function Contant() {
   return(
   <div>
 <Headar/>
-  <HeroParallax products={products} />;
+  <HeroParallax products={products} />
 
   <Footer/>
   </div>
